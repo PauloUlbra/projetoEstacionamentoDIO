@@ -1,0 +1,14 @@
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/bin/Debug/net8.0/DIOsistemaDeEstacionamento
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/bin/Debug/net8.0/DIOsistemaDeEstacionamento.deps.json
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/bin/Debug/net8.0/DIOsistemaDeEstacionamento.runtimeconfig.json
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/bin/Debug/net8.0/DIOsistemaDeEstacionamento.dll
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/bin/Debug/net8.0/DIOsistemaDeEstacionamento.pdb
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.AssemblyInfoInputs.cache
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.AssemblyInfo.cs
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.dll
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/refint/DIOsistemaDeEstacionamento.dll
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.pdb
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/DIOsistemaDeEstacionamento.genruntimeconfig.cache
+/home/paulo/Área de Trabalho/dev/Estudo Libre/estudo em c#/DIOsistemaDeEstacionamento/obj/Debug/net8.0/ref/DIOsistemaDeEstacionamento.dll
